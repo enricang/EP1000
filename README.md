@@ -1,10 +1,6 @@
 # home
 <!DOCTYPE html>
 <html>
-<title>Homepage</title>
-<head>
-  <title>About Me</title>
-</head>
 <body>
   <div class="topnav">
         <a href="index.html">Home</a>
@@ -19,7 +15,5 @@
   <p> In this webpage, I will be sharing my journey through this module; what I have learnt, and my projects in working!</p>
   <p> You can also find out more <a href="aboutme.html">about me</a> and view my <a href="blog.html">weekly blog</a> in the other pages! </p>
         <li><a href="www.google.com">Google Search</a></li>
-
-    <p>I hope you enjoy the facilities here!</p>
 </body>
 </html>
