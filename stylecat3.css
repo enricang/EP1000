@@ -1,4 +1,5 @@
 #banner {
-    background-image: url("../images/catwallpaper2.jpg");
+    background: -webkit-linear-gradient(left, #F2CFDB, #EAADC6);
+    background: linear-gradient(to right, #F2CFDB, #EAADC6);
 }
 
